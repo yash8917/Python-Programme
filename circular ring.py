@@ -5,7 +5,6 @@ turtle.bgcolor("black")
 turtle.pensize(2)
 turtle.speed(-2)
 print("Yash Gupta...")
-
 while (True):
     for i in range(6):
         for colour in ["red","blue","brown","green","grey","pink"]:

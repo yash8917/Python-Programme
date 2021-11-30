@@ -4,6 +4,7 @@
 #     if i<min:
 #         min=i
 # print(min)
+
 l=[2232,'yash','huraah',121]
 a=0
 for i in l:

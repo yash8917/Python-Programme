@@ -17,7 +17,6 @@ for j in l1:
 Write your code in this editor and press "Run" button to execute it.
 
 '''
-
 # ............................................#
 print('Hi Amit\nI have somthing to you.\n')
 n=input('->')
